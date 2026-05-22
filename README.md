@@ -28,9 +28,7 @@ Additionally, it includes:
 - **Downloadable fonts**
 - **Encryption of TMDB attributes in the Gradle script and decryption in the code**
 
-<p style="text-align: left;">
-  <img width="150" src="appVideo.gif" alt="Video">
-</p>
+
 
 ### 🔹 How to Try the Application
 
