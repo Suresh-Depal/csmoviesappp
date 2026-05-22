@@ -1,6 +1,6 @@
-# HotM@vies
+# CS MoviesAppp
 
-**HotM@vies** is a sample Android application that displays trending movies from the online movie
+**CSMoviesAppp** is a sample Android application that displays trending movies from the online movie
 database TMDB. The main goal is to demonstrate the integration of components and architecture for *
 *educational and demonstration
 purposes**.
